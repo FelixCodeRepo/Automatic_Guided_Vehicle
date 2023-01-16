@@ -3,6 +3,8 @@
 
 A small AGV is designed which can carry up to 8kg. The deviation of its position can be controlled within 50mm and the maximum speed can reach 1m/s.
 
+The test of stability of this control system is: https://youtu.be/RfNM4vGWVyE
+
 ### Schematic Diagram:
 
 ![image](https://user-images.githubusercontent.com/89890055/212583246-546d0b1e-39a4-4a84-9d8e-e6d72e9e8cda.png)
