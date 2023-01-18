@@ -27,4 +27,4 @@ The test of stability of this control system is: https://youtu.be/RfNM4vGWVyE
 
 ### Software flowchart:
 
-![image](https://user-images.githubusercontent.com/89890055/212583700-00a68fa2-9b75-4f60-9278-e78e58ad13c8.png)
+![image](https://user-images.githubusercontent.com/89890055/213080643-2ff47545-400d-48c0-a545-3888b7eeacc6.png)
